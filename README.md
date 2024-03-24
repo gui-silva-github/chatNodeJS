@@ -1,7 +1,7 @@
-# ChatBot com NodeJS
+# Chat com NodeJS
 
 This repository houses a straightforward chatbot developed following the principles taught in the fourth lesson of the "Intensivão de Javascript" by Hashtag Treinamentos, using Node.js. 
-The chatbot serves as a basic implementation to demonstrate key concepts covered in the course, offering a starting point for further exploration and enhancement, only localhost users can exchange messages.
+The chat serves as a basic implementation to demonstrate key concepts covered in the course, offering a starting point for further exploration and enhancement, only localhost users can exchange messages.
 
 # Recursos 
 
